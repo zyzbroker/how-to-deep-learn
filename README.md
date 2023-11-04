@@ -22,5 +22,5 @@ In the run.sh, we specify 8g for the shm-size. If your computer does not have en
 ## How to start deep learning
 - open terminal, run ./build.sh to create FASTAI+PyTorch Image.
 - run ./run.sh to run the container. it maps the current folder as "/app" folder inside the container. 
-- Once you are inside the container temrinal, run the command "python". it will create A python interactive environment.
+- Once you are inside the container terminal, run the command "python". it will create A python interactive environment.
 - After this, you can follow FASTAI books to begin your deep learning journey.
